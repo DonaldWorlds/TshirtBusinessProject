@@ -83,8 +83,3 @@ Feel free to fork the repository, make improvements, and submit pull requests. A
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 ```
 
-### Notes
-
-- Replace `https://github.com/yourusername/pinterest-bot.git` with the actual URL of your GitHub repository.
-- Make sure the file structure, especially the location of the CSV and images, is clearly defined to help users understand how to set up the project correctly.
-- Adjust any section to better reflect your project specifics or additional features that may be included.

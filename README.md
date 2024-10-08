@@ -1,6 +1,3 @@
-Here's a sample `README.md` file for your Pinterest bot project. You can customize it further to suit your preferences or add any additional details you find necessary.
-
-```markdown
 # Pinterest Bot
 
 A Python-based automation tool for interacting with Pinterest, allowing users to upload pins from a CSV file while employing proxy rotation and user-agent handling to simulate human-like behavior.

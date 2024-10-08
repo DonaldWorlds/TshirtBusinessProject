@@ -80,6 +80,6 @@ Feel free to fork the repository, make improvements, and submit pull requests. A
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under Donald Witherspoon @2024
 ```
 

@@ -22,7 +22,7 @@ A Python-based automation tool for interacting with Pinterest, allowing users to
 1. **Clone the repository**:
 
    ```bash
-   git clone https://github.com/yourusername/pinterest-bot.git
+   https://github.com/DonaldWorlds/TshirtBusinessProject.git
    cd pinterest-bot
    ```
 

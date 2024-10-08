@@ -1,0 +1,33 @@
+# Ignore the virtual environment
+Tshirtbusinessproject/pinterest_env/
+
+# Ignore Python cache files
+Tshirtbusinessproject/__pycache__/
+Tshirtbusinessproject/*.pyc
+Tshirtbusinessproject/*.pyo
+
+# Ignore macOS specific files
+Tshirtbusinessproject/.DS_Store  
+
+# Ignore package metadata
+Tshirtbusinessproject/*.egg-info/
+
+# Ignore specific text files
+Etsybusinesstxt.txt
+keywords.txt
+tshirtstomake.txt
+
+# Ignore the .env file
+.env
+
+# Ignore requirements.txt
+requirements.txt
+
+# Ignore the credentials directory
+Tshirtbusinessproject/cred_root/
+
+# Ignore images directory
+Tshirtbusinessproject/images/
+
+# Ignore pins.csv in the root
+Tshirtbusinessproject/pins.csv/

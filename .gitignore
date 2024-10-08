@@ -24,7 +24,7 @@ tshirtstomake.txt
 requirements.txt
 
 # Ignore the credentials directory
-Tshirtbusinessproject/cred_root/
+Tshirtbusinessproject/Tshirtbusinessproject/cred_root/
 
 # Ignore images directory
 Tshirtbusinessproject/images/
